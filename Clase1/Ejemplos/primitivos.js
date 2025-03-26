@@ -1,0 +1,18 @@
+"use strict";
+let nombre = "Ada Lovelace";
+let saludo = `Hola ${nombre}, bienvenida a typescript`;
+console.log(saludo);
+let entero = 42;
+let decimal = 3.14;
+let cientifico = 1e5;
+console.log("Entero:", entero);
+console.log("Decimal:", decimal);
+console.log("Cientifico:", cientifico);
+let esEstudiante = true;
+let tieneLicencia = false;
+console.log("Es estudiante?", esEstudiante);
+console.log("Tiene licencia", tieneLicencia);
+let valorNulo = null;
+console.log("Valor Nulo:", valorNulo);
+let valorIndefinido = undefined;
+console.log("Valor Indefinido:", valorIndefinido);
