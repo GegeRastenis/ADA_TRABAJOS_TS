@@ -5,7 +5,7 @@ Luego, imprime esos valores en la consola.*/
 
 let n: string = "Giselle"; 
 let edad: number = 43; 
-let isStudent = true; 
+let isStudent: boolean = true; 
 let presentacion: string = `Hola! Mi nombre es ${n}, tengo ${edad} anios`; 
 console.log(presentacion); 
 console.log("Eres estudiante?", isStudent); 

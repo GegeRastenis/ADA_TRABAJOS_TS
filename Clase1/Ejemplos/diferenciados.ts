@@ -18,4 +18,10 @@ function infiniteBucle(): never{
         console.log("Este bucle nunca termina!!!"); 
     }
 }
-infiniteBucle()
+//infiniteBucle()
+
+let valorNull: string | null = null 
+console.log(valorNull);
+
+valorNull = "Ahora tiene un valor"; 
+console.log(valorNull);
