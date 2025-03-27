@@ -16,4 +16,8 @@ function infiniteBucle() {
         console.log("Este bucle nunca termina!!!");
     }
 }
-infiniteBucle();
+//infiniteBucle()
+let valorNull = null;
+console.log(valorNull);
+valorNull = "Ahora tiene un valor";
+console.log(valorNull);
