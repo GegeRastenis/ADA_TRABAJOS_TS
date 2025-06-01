@@ -1,0 +1,19 @@
+{
+  "info": {
+    "name": "Quotes Database",
+    "version": "1.0.0",
+    "total": 4
+  },
+  "quotes": [
+    {
+      "id": "1",
+      "text": "Sonrie, la vida es linda",
+      "autor": "Giselle"
+    },
+    {
+      "id": "2",
+      "text": "Arriba la aleta tiburona!",
+      "autor": "Lucas"
+    }
+  ]
+}

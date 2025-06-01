@@ -55,6 +55,5 @@ const mesaRatona = new Mueble("Mesa Ratona", 20000, 2);
 mueblería.agregarMueble(sillon); 
 mueblería.agregarMueble(mesaRatona); 
 mueblería.mostrarInventario(); 
-//sillon.cambiarPrecio(100000); 
+sillon.cambiarPrecio(100000); 
 sillon.cambiarPrecio(-10); 
-
