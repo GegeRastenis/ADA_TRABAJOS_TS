@@ -1,10 +1,13 @@
 {
   "dependencies": {
     "@types/express": "^5.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.8.3",
-    "zod": "^3.25.50"
+    "zod": "^3.25.58"
   },
   "name": "ada_trabajos_ts",
   "version": "1.0.0",
